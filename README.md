@@ -18,10 +18,6 @@ https://github.com/
 
 6)
 
-```
-
-```
-
 Developer >>
 
 1) Sign in to Account.
