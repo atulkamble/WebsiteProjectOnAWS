@@ -1,7 +1,7 @@
 # WebsiteProjectonAWS
 Project: Host a Website on AWS
 
-- Admin Roles and Responsiblity
+## Admin Roles and Responsiblity
 
 1) Create Architecture using Software: https://www.drawio.com/
 2) Sign up for Github: https://github.com/
@@ -23,7 +23,7 @@ cat index.html
 history
 ```
 
-- Developer Responsibility
+## Developer Responsibility
 
 1) Sign in to Account.
 2) ssh to EC2 Instance.
