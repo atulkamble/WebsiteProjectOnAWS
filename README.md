@@ -1,6 +1,7 @@
 # WebsiteProjectonAWS
 Project: Host a Website on AWS
-Admin >>
+
+- Admin Roles and Responsiblity
 
 1) Create Architecture using Software: https://www.drawio.com/
 2) Sign up for Github: https://github.com/
@@ -22,17 +23,14 @@ cat index.html
 history
 ```
 
-Developer >>
+- Developer Responsibility
 
 1) Sign in to Account.
-
 2) ssh to EC2 Instance.
-
 ```
 ssh -i "key.pem" ec2-user@ec2-3-108-254-82.ap-south-1.compute.amazonaws.com
 ```
 3) Navigate to cd /var/www/html and maintain code.
-
 4) Check public ip of instance in web-browser
 ```
 http://3.108.254.82/
