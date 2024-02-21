@@ -7,8 +7,7 @@ Admin >>
 3) Create Repository
 4) Naviagte to IAM >> Create User Group (Developers) | Add user (developer) to User GroupCretate user account (developer) | EC2 Full Access Policy. | Create Console Credentials. Shared sign in details to developer.
 5) Create ec2 instance. (SG: ssh, http, https) 
-6) deploy packages and configure webserver.
-7)
+6) deploy following packages and configure webserver.
 ```
 sudo yum update -y
 sudo yum install httpd -y
