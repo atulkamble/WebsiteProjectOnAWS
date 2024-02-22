@@ -22,6 +22,27 @@ sudo nano index.html
 cat index.html
 history
 ```
+7) Upload Website Code
+//  Install and configure Git
+```
+sudo yum install git
+git --version
+```
+// Set user details 
+```
+git config --global user.name "FirstName LastName"
+git config --global user.email abc@gmail.com
+```
+OR 
+
+Setup Github Desktop
+https://desktop.github.com/
+
+```
+git clone https://github.com/prasadkashid24/Portfolio.git
+cd Portfolio
+mv /* /var/www/html
+```
 
 ## Developer Responsibility
 
