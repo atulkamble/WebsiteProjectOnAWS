@@ -6,7 +6,7 @@ Project: Host a Website on AWS
 1) Create Architecture using Software: https://www.drawio.com/
 2) Sign up for Github: https://github.com/
 3) Create Repository
-4) Naviagte to *IAM* >> Create *User* - dev | Create *User Group* (Developers) | Add user (dev) to User Group (Developers) | Assign EC2 Full Access Policy. | Create Console Credentials. Shared sign in details to developer.
+4) Naviagte to *IAM* >> Create *User* - dev | Create *User Group* (Developers) | Add user (dev) to User Group (Developers) | Add Permisions >> Attach Policy >> Assign EC2 Full Access Policy. | Create Console Credentials. Shared sign in details to developer.
 5) Create ec2 instance. (SG: ssh, http, https) 
 6) deploy following packages and configure webserver.
 ```
