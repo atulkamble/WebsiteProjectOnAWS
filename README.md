@@ -41,6 +41,7 @@ https://desktop.github.com/
 
 ```
 git clone https://github.com/prasadkashid24/Portfolio.git
+git clone https://github.com/atulkamble/WebsiteProjectOnAWS.git
 cd Portfolio
 mv /* /var/www/html
 ```
