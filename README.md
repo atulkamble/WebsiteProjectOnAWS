@@ -7,8 +7,9 @@ Project: Host a Website on AWS
 2) Sign up for Github: https://github.com/
 3) Create Repository
 4) Naviagte to *IAM* >> Create *User* - dev | Create *User Group* (Developers) | Add user (dev) to User Group (Developers) | Add Permisions >> Attach Policy >> Assign EC2 Full Access Policy. | Naviagte to Security Credentials | Enable Console Access | Generate Password. Shared sign in details to developer.
-5) Create ec2 instance. (SG: ssh, http, https) 
-6) deploy following packages and configure webserver.
+5) From a Seprerate Tab (Incognito Mode) - Sign in to dev account.
+6) Create ec2 instance. (SG: ssh, http, https) 
+7) deploy following packages and configure webserver.
 ```
 sudo yum update -y
 sudo yum install httpd -y
